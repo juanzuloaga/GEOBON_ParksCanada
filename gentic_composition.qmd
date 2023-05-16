@@ -1,0 +1,92 @@
+---
+title: "Genetic composition"
+format:
+  html:
+   # self-contained: true
+    link-external-icon: true
+    link-external-newwindow: true
+toc: true
+editor: visual
+---
+
+# Description
+
+Protect and safeguard genetic diversity (within and between species populations) of wild, managed, and cultivated species for human well-being and ecosystem resilience.
+
+# Proposed EBVs
+
+[Hoban et al (2022](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12852)) have proposed the following Genetic Composition Essential Biodiversity Variables:
+
+-   Genetic diversity: Richness and evenness
+
+-   Genetic differentiation: number of genetic units and differentiation between units
+
+-   Inbreeding
+
+-   Effective population size (Ne)
+
+# EBVs characteristics
+
+[Hoban et al (2022](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12852)) summarized the four Genetic Composition Essential Biodiversity Variables (ranking from low (+) to high (+++)).
+
+| **Genetic EBV**                                                                                                          | **Genetic Diversity**                          | **Genetic Differentiation**                                                   | **Inbreeding**                                                                                                 | **Effective Population Size (*N*~e~)**                                                                                                       |
+|:-------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------|:------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
+| **Number of genetic units**                                                                                              | **Differentiation between units**              |                                                                               |                                                                                                                |                                                                                                                                              |
+| **Richness**                                                                                                             | **Evenness**                                   |                                                                               |                                                                                                                |                                                                                                                                              |
+| Definition                                                                                                               | Count of the number of alleles in a population | Expected proportion of heterozygotes in a population at equilibrium           | Number of genetic lineages/units within a species                                                              | Degree of genetic differentiation among populations or units                                                                                 |
+| Examples                                                                                                                 | Allelic richness, nucleotide diversity (π)     | *H*~e~, *H~O~*                                                                | Number of distinct evolutionarily significant units or management units                                        | *F*~ST~, *G*~ST~, *D*~est~                                                                                                                   |
+| Range of values                                                                                                          | 0 to 1                                         | 0 to 1                                                                        | ≥1                                                                                                             | 0 to 1                                                                                                                                       |
+| Level of organization                                                                                                    | Population                                     | Individual/population                                                         | Across species range or specific region                                                                        | Across species range or specific region                                                                                                      |
+| Interpretation of a change identified across loci                                                                        | Decline indicates loss of adaptive capacity    | Decline indicates loss of adaptive capacity or increased levels of inbreeding | Loss of independent evolutionary or demographic units (probable loss of adaptations and long-term persistence) | Increased differentiation indicates more fragmentation (reduced gene flow) between units; decreased differentiation indicates homogenization |
+| Relevance to species status                                                                                              | +++                                            | ++                                                                            | +++                                                                                                            | ++                                                                                                                                           |
+| Sensitivity to change over time                                                                                          | +++                                            | \+                                                                            | +++                                                                                                            | ++ (depends on life history and *N*~e~)                                                                                                      |
+| Spatial scalability[\*](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12852#brv12852-note-0004_99 "Link to note") | +++                                            | \+                                                                            | +++                                                                                                            | ++                                                                                                                                           |
+| Feasibility                                                                                                              | +++                                            | +++                                                                           | +++                                                                                                            | +++                                                                                                                                          |
+| Data available                                                                                                           | +++                                            | +++                                                                           | +++                                                                                                            | +++                                                                                                                                          |
+
+## How to calculate metrics
+
+### Datasets
+
++----------------------------------+-------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Field/other sources              | Lab                                 | Analysis tools | Datasets                                                                                                                                                      |
++==================================+=====================================+================+===============================================================================================================================================================+
+| Biological sampling              | DNA storage, extraction, sequencing |                | Raw data: [International Nucleotide Sequence Database Collaboration](https://www.insdc.org/)                                                                  |
+|                                  |                                     |                |                                                                                                                                                               |
+| Biological collections           |                                     |                | Processed data: [GenBank](https://www.ncbi.nlm.nih.gov/genbank/)                                                                                              |
+|                                  |                                     |                |                                                                                                                                                               |
+| Fossils                          |                                     |                | Taxonomic and region specific: [Cartogratree](https://treegenesdb.org/ct)                                                                                     |
+|                                  |                                     |                |                                                                                                                                                               |
+| eDNA                             |                                     |                |                                                                                                                                                               |
++----------------------------------+-------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Census size of local populations |                                     |                | [GBIF](https://www.gbif.org/)                                                                                                                                 |
+|                                  |                                     |                |                                                                                                                                                               |
+|                                  |                                     |                | [North American Breeding Bird Survey (BBS)](https://www.pwrc.usgs.gov/bbs/index.cfm?CFID=940148&CFTOKEN=5a58ca4280dca5d1-F1BBB960-CA44-1525-939C60A47BCBFF34) |
++----------------------------------+-------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                  |                                     |                |                                                                                                                                                               |
++----------------------------------+-------------------------------------+----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+# 
+Indicators
+
+## Headline and component indicators 
+
++------------------------------------------------------------------------+---------------------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+
+| Indicator                                                              | Type and EBVs                                                       | Rationale                                                                             | Goals and Targets                                                                           |
++========================================================================+=====================================================================+=======================================================================================+=============================================================================================+
+| Proportion of species populations with effective population sizes (Ne) | [Headline indicator](https://www.post-2020indicators.org/glossary)  | It is a metric for measuring the rate of loss of genetic diversity within populations | [Goal A Target 4](https://www.cbd.int/article/cop15-final-text-kunming-montreal-gbf-221222) |
+|                                                                        |                                                                     |                                                                                       |                                                                                             |
+|                                                                        | Species populations with effective population sizes (Ne)            |                                                                                       |                                                                                             |
++------------------------------------------------------------------------+---------------------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+
+| Maintain genetic diversity within populations                          |                                                                     |                                                                                       |                                                                                             |
++------------------------------------------------------------------------+---------------------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+
+| The seafeguarding                                                      | [Component indicator](https://www.post-2020indicators.org/glossary) |                                                                                       |                                                                                             |
++------------------------------------------------------------------------+---------------------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+
+| The genetic scored                                                     |                                                                     |                                                                                       |                                                                                             |
++------------------------------------------------------------------------+---------------------------------------------------------------------+---------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------+
+
+## How to calculate indicators
+
+See [indicator metadata](https://www.post-2020indicators.org/pdfs/447?type=headline) for a description.
+
+# Case studies

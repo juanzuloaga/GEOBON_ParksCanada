@@ -1,0 +1,11 @@
+---
+title: "Example"
+format:
+  html:
+    link-external-icon: true
+    link-external-newwindow: true
+---
+
+This is an example on how
+
+![Indicator example](indicator_example.png)
